@@ -2,8 +2,8 @@ This is the code repository for [Evolutionary Trigger Set Generation for DNN Bla
 
 The models come from https://github.com/kuangliu/pytorch-cifar.
 
-To run watermarking:
+To run watermarking: \
 ```python watermarking_main.py```
 
-To run evolution:
+To run evolution: \
 ```python evolution_main.py 0.2```
